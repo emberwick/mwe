@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Finley Malloc",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2\n\n\nA link to index that does work"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "mwe",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  }
+]

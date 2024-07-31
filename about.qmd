@@ -1,0 +1,22 @@
+---
+title: "Finley Malloc"
+about:
+  id: hero-heading
+  template: jolla
+  image: profile.jpg
+  links:
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com
+    - icon: file-pdf
+      text: broken link to index
+      href: index.html
+---
+
+About this site
+
+```{r}
+1 + 1
+```
+
+[A link to index that does work](index.qmd)
